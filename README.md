@@ -66,3 +66,5 @@ nuget push path/to/your/package.nupkg -ApiKey <TOKEN> -Source https://nuget.pkg.
 ```
 Where TOKEN is a github token with write:package access to your organization.
 
+## Source
+https://learn.microsoft.com/en-us/nuget/reference/nuspec

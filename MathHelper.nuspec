@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>MathHelper</id>
+    <version>1.0.0</version>
+    <authors>NAME</authors>
+    <owners>OWNER's NAME</owners>
+    <description>Application for performing simple mathematical operations</description>
+    <dependencies>
+     
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="MathHelper\MathHelper\bin\Debug\net6.0\MathHelper.dll" target="lib\net6.0\MathHelper.dll" />
+  </files>
+</package>

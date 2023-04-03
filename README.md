@@ -58,7 +58,6 @@ nuget pack <NAME>.nuspec -properties version=2.1.3
 ```
 Would result in creating a package with version 2.1.3. 
 The replacement values must be within the metadata-tag.
-## NuGet for multiple .net versions
 
 ## Publish NuGet package to GitHub-organization
 After we have generated the NuGet package, we can publish it to our GitHub organization using this command:

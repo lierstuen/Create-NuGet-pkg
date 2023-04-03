@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>MathHelper</id>
-    <version>1.0.0</version>
+    <version>$version$</version>
     <authors>NAME</authors>
     <owners>OWNER's NAME</owners>
     <description>Application for performing simple mathematical operations</description>
